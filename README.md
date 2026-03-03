@@ -19,3 +19,4 @@ Una aplicación web robusta y minimalista para la gestión de tareas diarias, di
 * **ORM:** SQLAlchemy (Base de datos)
 * **Estilos:** Tailwind CSS
 * **Plantillas:** Jinja2 (HTML dinámico)
+![app-gestior-tareas](https://github.com/user-attachments/assets/b993b57f-82f9-491a-aa5f-2f336eb50827)
